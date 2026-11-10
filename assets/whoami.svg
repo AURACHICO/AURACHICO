@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 262" width="840" role="img" aria-label="profile.yml: Aura Martínez, Líder Técnico Funcional Odoo, Ingeniera de Sistemas, Cartagena, área financiera">
+<rect x="0.5" y="0.5" width="600" height="261" rx="10" fill="#010409" stroke="#30363d"/><line x1="0.5" y1="30.5" x2="600.5" y2="30.5" stroke="#30363d"/><circle cx="16.5" cy="15.5" r="5" fill="#ff5f56"/><circle cx="32.5" cy="15.5" r="5" fill="#ffbd2e"/><circle cx="48.5" cy="15.5" r="5" fill="#27c93f"/><text x="66.5" y="19.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b949e">aurachico — profile.yml</text>
+<text x="20" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#ff7b72">profile:</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="0.30s" fill="freeze"/></text>
+<text x="20" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#e3b341">  nombre:</tspan><tspan fill="#e6edf3"> Aura Martínez</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="0.58s" fill="freeze"/></text>
+<text x="20" y="92" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#e3b341">  rol:</tspan><tspan fill="#e6edf3"> Líder Técnico Funcional Odoo</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="0.86s" fill="freeze"/></text>
+<text x="20" y="111" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#e3b341">  titulo:</tspan><tspan fill="#e6edf3"> Ingeniera de Sistemas</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.14s" fill="freeze"/></text>
+<text x="20" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#e3b341">  ubicacion:</tspan><tspan fill="#e6edf3"> Cartagena, Colombia</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.42s" fill="freeze"/></text>
+<text x="20" y="149" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#ff7b72">enfoque:</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.70s" fill="freeze"/></text>
+<text x="20" y="168" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#e3b341">  area:</tspan><tspan fill="#e6edf3"> Financiera</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.98s" fill="freeze"/></text>
+<text x="20" y="187" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#e3b341">  dominio:</tspan><tspan fill="#e6edf3"> Contabilidad · Presupuesto · Cartera · DIAN</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2.26s" fill="freeze"/></text>
+<text x="20" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#ff7b72">stack:</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2.54s" fill="freeze"/></text>
+<text x="20" y="225" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#e3b341">  erp:</tspan><tspan fill="#e6edf3"> Odoo</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2.82s" fill="freeze"/></text>
+<text x="20" y="244" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" xml:space="preserve" opacity="0"><tspan fill="#e3b341">  lenguajes:</tspan><tspan fill="#e6edf3"> Python · JavaScript</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="3.10s" fill="freeze"/></text>
+<rect x="616.5" y=".5" width="223" height="261" rx="10" fill="#010409" stroke="#30363d"/>
+<circle cx="704" cy="40" r="3" fill="#161b22"/>
+<circle cx="716" cy="40" r="3" fill="#161b22"/>
+<circle cx="728" cy="40" r="3" fill="#161b22"/>
+<circle cx="740" cy="40" r="3" fill="#161b22"/>
+<circle cx="752" cy="40" r="3" fill="#161b22"/>
+<circle cx="680" cy="52" r="3" fill="#161b22"/>
+<circle cx="692" cy="52" r="3" fill="#161b22"/>
+<circle cx="704" cy="52" r="3" fill="#161b22"/>
+<circle cx="716" cy="52" r="3" fill="#161b22"/>
+<circle cx="728" cy="52" r="3" fill="#161b22"/>
+<circle cx="740" cy="52" r="3" fill="#161b22"/>
+<circle cx="752" cy="52" r="3" fill="#161b22"/>
+<circle cx="764" cy="52" r="3" fill="#161b22"/>
+<circle cx="776" cy="52" r="3" fill="#161b22"/>
+<circle cx="668" cy="64" r="3" fill="#161b22"/>
+<circle cx="680" cy="64" r="3" fill="#161b22"/>
+<circle cx="692" cy="64" r="3" fill="#161b22"/>
+<circle cx="704" cy="64" r="3" fill="#161b22"/>
+<circle cx="716" cy="64" r="3" fill="#161b22"/>
+<circle cx="728" cy="64" r="3" fill="#161b22"/>
+<circle cx="740" cy="64" r="3" fill="#161b22"/>
+<circle cx="752" cy="64" r="3" fill="#161b22"/>
+<circle cx="764" cy="64" r="3" fill="#161b22"/>
+<circle cx="776" cy="64" r="3" fill="#161b22"/>
+<circle cx="788" cy="64" r="3" fill="#161b22"/>
+<circle cx="656" cy="76" r="3" fill="#161b22"/>
+<circle cx="668" cy="76" r="3" fill="#161b22"/>
+<circle cx="680" cy="76" r="3" fill="#161b22"/>
+<circle cx="692" cy="76" r="3" fill="#161b22"/>
+<circle cx="704" cy="76" r="3" fill="#161b22"/>
+<circle cx="716" cy="76" r="3" fill="#161b22"/>
+<circle cx="728" cy="76" r="3" fill="#161b22"/>
+<circle cx="740" cy="76" r="3" fill="#161b22"/>
+<circle cx="752" cy="76" r="3" fill="#161b22"/>
+<circle cx="764" cy="76" r="3" fill="#161b22"/>
+<circle cx="776" cy="76" r="3" fill="#161b22"/>
+<circle cx="788" cy="76" r="3" fill="#161b22"/>
+<circle cx="800" cy="76" r="3" fill="#161b22"/>
+<circle cx="656" cy="88" r="3" fill="#161b22"/>
+<circle cx="668" cy="88" r="3" fill="#161b22"/>
+<circle cx="680" cy="88" r="3" fill="#161b22"/>
+<circle cx="692" cy="88" r="3" fill="#161b22"/>
+<circle cx="704" cy="88" r="3" fill="#161b22"/>
+<circle cx="716" cy="88" r="3" fill="#161b22"/>
+<circle cx="728" cy="88" r="3" fill="#161b22"/>
+<circle cx="740" cy="88" r="3" fill="#161b22"/>
+<circle cx="752" cy="88" r="3" fill="#161b22"/>
+<circle cx="764" cy="88" r="3" fill="#161b22"/>
+<circle cx="776" cy="88" r="3" fill="#161b22"/>
+<circle cx="788" cy="88" r="3" fill="#161b22"/>
+<circle cx="800" cy="88" r="3" fill="#161b22"/>
+<circle cx="644" cy="100" r="3" fill="#161b22"/>
+<circle cx="656" cy="100" r="3" fill="#161b22"/>
+<circle cx="668" cy="100" r="3" fill="#161b22"/>
+<circle cx="680" cy="100" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="0.96s" repeatCount="indefinite"/></circle>
+<circle cx="692" cy="100" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.08s" repeatCount="indefinite"/></circle>
+<circle cx="704" cy="100" r="3" fill="#161b22"/>
+<circle cx="716" cy="100" r="3" fill="#161b22"/>
+<circle cx="728" cy="100" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.44s" repeatCount="indefinite"/></circle>
+<circle cx="740" cy="100" r="3" fill="#161b22"/>
+<circle cx="752" cy="100" r="3" fill="#161b22"/>
+<circle cx="764" cy="100" r="3" fill="#161b22"/>
+<circle cx="776" cy="100" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.92s" repeatCount="indefinite"/></circle>
+<circle cx="788" cy="100" r="3" fill="#161b22"/>
+<circle cx="800" cy="100" r="3" fill="#161b22"/>
+<circle cx="812" cy="100" r="3" fill="#161b22"/>
+<circle cx="644" cy="112" r="3" fill="#161b22"/>
+<circle cx="656" cy="112" r="3" fill="#161b22"/>
+<circle cx="668" cy="112" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="0.96s" repeatCount="indefinite"/></circle>
+<circle cx="680" cy="112" r="3" fill="#161b22"/>
+<circle cx="692" cy="112" r="3" fill="#161b22"/>
+<circle cx="704" cy="112" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.32s" repeatCount="indefinite"/></circle>
+<circle cx="716" cy="112" r="3" fill="#161b22"/>
+<circle cx="728" cy="112" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.56s" repeatCount="indefinite"/></circle>
+<circle cx="740" cy="112" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.68s" repeatCount="indefinite"/></circle>
+<circle cx="752" cy="112" r="3" fill="#161b22"/>
+<circle cx="764" cy="112" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.92s" repeatCount="indefinite"/></circle>
+<circle cx="776" cy="112" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="2.04s" repeatCount="indefinite"/></circle>
+<circle cx="788" cy="112" r="3" fill="#161b22"/>
+<circle cx="800" cy="112" r="3" fill="#161b22"/>
+<circle cx="812" cy="112" r="3" fill="#161b22"/>
+<circle cx="644" cy="124" r="3" fill="#161b22"/>
+<circle cx="656" cy="124" r="3" fill="#161b22"/>
+<circle cx="668" cy="124" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.08s" repeatCount="indefinite"/></circle>
+<circle cx="680" cy="124" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.20s" repeatCount="indefinite"/></circle>
+<circle cx="692" cy="124" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.32s" repeatCount="indefinite"/></circle>
+<circle cx="704" cy="124" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.44s" repeatCount="indefinite"/></circle>
+<circle cx="716" cy="124" r="3" fill="#161b22"/>
+<circle cx="728" cy="124" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.68s" repeatCount="indefinite"/></circle>
+<circle cx="740" cy="124" r="3" fill="#161b22"/>
+<circle cx="752" cy="124" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.92s" repeatCount="indefinite"/></circle>
+<circle cx="764" cy="124" r="3" fill="#161b22"/>
+<circle cx="776" cy="124" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="2.16s" repeatCount="indefinite"/></circle>
+<circle cx="788" cy="124" r="3" fill="#161b22"/>
+<circle cx="800" cy="124" r="3" fill="#161b22"/>
+<circle cx="812" cy="124" r="3" fill="#161b22"/>
+<circle cx="644" cy="136" r="3" fill="#161b22"/>
+<circle cx="656" cy="136" r="3" fill="#161b22"/>
+<circle cx="668" cy="136" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.20s" repeatCount="indefinite"/></circle>
+<circle cx="680" cy="136" r="3" fill="#161b22"/>
+<circle cx="692" cy="136" r="3" fill="#161b22"/>
+<circle cx="704" cy="136" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.56s" repeatCount="indefinite"/></circle>
+<circle cx="716" cy="136" r="3" fill="#161b22"/>
+<circle cx="728" cy="136" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.80s" repeatCount="indefinite"/></circle>
+<circle cx="740" cy="136" r="3" fill="#161b22"/>
+<circle cx="752" cy="136" r="3" fill="#161b22"/>
+<circle cx="764" cy="136" r="3" fill="#161b22"/>
+<circle cx="776" cy="136" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="2.28s" repeatCount="indefinite"/></circle>
+<circle cx="788" cy="136" r="3" fill="#161b22"/>
+<circle cx="800" cy="136" r="3" fill="#161b22"/>
+<circle cx="812" cy="136" r="3" fill="#161b22"/>
+<circle cx="644" cy="148" r="3" fill="#161b22"/>
+<circle cx="656" cy="148" r="3" fill="#161b22"/>
+<circle cx="668" cy="148" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.32s" repeatCount="indefinite"/></circle>
+<circle cx="680" cy="148" r="3" fill="#161b22"/>
+<circle cx="692" cy="148" r="3" fill="#161b22"/>
+<circle cx="704" cy="148" r="4.4" fill="#ff7b72"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.68s" repeatCount="indefinite"/></circle>
+<circle cx="716" cy="148" r="3" fill="#161b22"/>
+<circle cx="728" cy="148" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="1.92s" repeatCount="indefinite"/></circle>
+<circle cx="740" cy="148" r="3" fill="#161b22"/>
+<circle cx="752" cy="148" r="3" fill="#161b22"/>
+<circle cx="764" cy="148" r="3" fill="#161b22"/>
+<circle cx="776" cy="148" r="4.4" fill="#36bcf7"><animate attributeName="opacity" values="1;.55;1" dur="3s" begin="2.40s" repeatCount="indefinite"/></circle>
+<circle cx="788" cy="148" r="3" fill="#161b22"/>
+<circle cx="800" cy="148" r="3" fill="#161b22"/>
+<circle cx="812" cy="148" r="3" fill="#161b22"/>
+<circle cx="656" cy="160" r="3" fill="#161b22"/>
+<circle cx="668" cy="160" r="3" fill="#161b22"/>
+<circle cx="680" cy="160" r="3" fill="#161b22"/>
+<circle cx="692" cy="160" r="3" fill="#161b22"/>
+<circle cx="704" cy="160" r="3" fill="#161b22"/>
+<circle cx="716" cy="160" r="3" fill="#161b22"/>
+<circle cx="728" cy="160" r="3" fill="#161b22"/>
+<circle cx="740" cy="160" r="3" fill="#161b22"/>
+<circle cx="752" cy="160" r="3" fill="#161b22"/>
+<circle cx="764" cy="160" r="3" fill="#161b22"/>
+<circle cx="776" cy="160" r="3" fill="#161b22"/>
+<circle cx="788" cy="160" r="3" fill="#161b22"/>
+<circle cx="800" cy="160" r="3" fill="#161b22"/>
+<circle cx="656" cy="172" r="3" fill="#161b22"/>
+<circle cx="668" cy="172" r="3" fill="#161b22"/>
+<circle cx="680" cy="172" r="3" fill="#161b22"/>
+<circle cx="692" cy="172" r="3" fill="#161b22"/>
+<circle cx="704" cy="172" r="3" fill="#161b22"/>
+<circle cx="716" cy="172" r="3" fill="#161b22"/>
+<circle cx="728" cy="172" r="3" fill="#161b22"/>
+<circle cx="740" cy="172" r="3" fill="#161b22"/>
+<circle cx="752" cy="172" r="3" fill="#161b22"/>
+<circle cx="764" cy="172" r="3" fill="#161b22"/>
+<circle cx="776" cy="172" r="3" fill="#161b22"/>
+<circle cx="788" cy="172" r="3" fill="#161b22"/>
+<circle cx="800" cy="172" r="3" fill="#161b22"/>
+<circle cx="668" cy="184" r="3" fill="#161b22"/>
+<circle cx="680" cy="184" r="3" fill="#161b22"/>
+<circle cx="692" cy="184" r="3" fill="#161b22"/>
+<circle cx="704" cy="184" r="3" fill="#161b22"/>
+<circle cx="716" cy="184" r="3" fill="#161b22"/>
+<circle cx="728" cy="184" r="3" fill="#161b22"/>
+<circle cx="740" cy="184" r="3" fill="#161b22"/>
+<circle cx="752" cy="184" r="3" fill="#161b22"/>
+<circle cx="764" cy="184" r="3" fill="#161b22"/>
+<circle cx="776" cy="184" r="3" fill="#161b22"/>
+<circle cx="788" cy="184" r="3" fill="#161b22"/>
+<circle cx="680" cy="196" r="3" fill="#161b22"/>
+<circle cx="692" cy="196" r="3" fill="#161b22"/>
+<circle cx="704" cy="196" r="3" fill="#161b22"/>
+<circle cx="716" cy="196" r="3" fill="#161b22"/>
+<circle cx="728" cy="196" r="3" fill="#161b22"/>
+<circle cx="740" cy="196" r="3" fill="#161b22"/>
+<circle cx="752" cy="196" r="3" fill="#161b22"/>
+<circle cx="764" cy="196" r="3" fill="#161b22"/>
+<circle cx="776" cy="196" r="3" fill="#161b22"/>
+<circle cx="704" cy="208" r="3" fill="#161b22"/>
+<circle cx="716" cy="208" r="3" fill="#161b22"/>
+<circle cx="728" cy="208" r="3" fill="#161b22"/>
+<circle cx="740" cy="208" r="3" fill="#161b22"/>
+<circle cx="752" cy="208" r="3" fill="#161b22"/>
+<text x="728" y="238" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b949e">status: aprendiendo siempre</text>
+</svg>

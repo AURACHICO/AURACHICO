@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 344" width="840" role="img" aria-label="Experiencia: NIVUS S.A.S., Porthos Steakhouse &amp; Pub, DISMEL LTDA, Tiserium S.A.S.">
+<rect x=".5" y=".5" width="839" height="343" rx="10" fill="#010409" stroke="#30363d"/><g transform="translate(18,14)">
+<line x1="14" y1="22" x2="14" y2="256" stroke="#30363d" stroke-width="2"/>
+<circle cx="14" cy="22" r="6" fill="#ff7b72" stroke="#010409" stroke-width="2"><animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite"/></circle>
+<text x="36" y="27" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Líder Técnico Funcional y Desarrolladora Odoo — NIVUS S.A.S.</text>
+<text x="36" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#36bcf7">abr 2025 – actualidad · Cartagena</text>
+<text x="36" y="65" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Crédito estudiantil, presupuesto, suministro, facturación DIAN, informes y migración de datos.</text>
+<circle cx="14" cy="98" r="6" fill="#ff7b72" stroke="#010409" stroke-width="2"></circle>
+<text x="36" y="103" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Desarrolladora Odoo — Porthos Steakhouse &amp; Pub</text>
+<text x="36" y="122" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#36bcf7">feb 2024 – dic 2024 · Barranquilla</text>
+<text x="36" y="141" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Contabilidad, compras, inventario, POS, nómina y fabricación. Despliegues en Odoo.sh.</text>
+<circle cx="14" cy="174" r="6" fill="#ff7b72" stroke="#010409" stroke-width="2"></circle>
+<text x="36" y="179" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Desarrolladora Odoo — DISMEL LTDA</text>
+<text x="36" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#36bcf7">jul 2022 – feb 2024 · Cartagena</text>
+<text x="36" y="217" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Ventas, compras, inventario y contabilidad. Costos, listas de precios y márgenes.</text>
+<circle cx="14" cy="250" r="6" fill="#ff7b72" stroke="#010409" stroke-width="2"></circle>
+<text x="36" y="255" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Desarrolladora — Tiserium S.A.S.</text>
+<text x="36" y="274" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#36bcf7">ene 2021 – nov 2021</text>
+<text x="36" y="293" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Interfaces web con React.js, JavaScript, HTML5 y CSS3.</text>
+</g>
+</svg>
