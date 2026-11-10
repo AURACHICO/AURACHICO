@@ -40,7 +40,7 @@ Soy líder técnico funcional y desarrolladora Odoo, con más de 4 años constru
 | Proyecto | Tecnologías | Estado |
 | --- | --- | --- |
 | **Control de presupuesto** — ingresos, gastos y tablero con login | MongoDB · Express · React · Node.js | En construcción |
-| **Simulador de crédito** — cuotas y tabla de amortización | JavaScript | En construcción |
+| [**Simulador de crédito**](https://github.com/AURACHICO/simulador-credito-js) — cuotas y tabla de amortización | JavaScript | Publicado |
 | **Cartera en PostgreSQL** — modelo de datos y edades de cartera | SQL · vistas · funciones | En construcción |
 | **Landing personal** — página responsive | HTML5 · CSS3 · Sass | En construcción |
 
